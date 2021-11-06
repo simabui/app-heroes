@@ -1,0 +1,5 @@
+.nav__link {
+  &:not(:first-child) {
+    margin-left: 10px;
+  }
+}
